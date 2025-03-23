@@ -2,10 +2,10 @@
 
 ## C -Programming Final Project
 This project was developed as a part of the ACES C-Project Demonstration by the following team members:
- - Carol Lama
-- Chomina Poudel
-- Nikky Singh
-- Nandani Mahato
+ - Carol Lama(@Carollama)
+- Chomina Poudel(@chominap12)
+- Nikky Singh(@Nikkysingh16)
+- Nandani Mahato(@Nandani324)
 
  ##### Project Description
  This project is a simple Personal Budget Tracker that helps users to :
