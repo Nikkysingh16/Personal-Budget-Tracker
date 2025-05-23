@@ -56,9 +56,13 @@ Uses struct budget to organize financial records, including:
   ## Instruction to Run the project
 
   #### 1 . Running the project in VS Code
-  If you 're using VS Code with the code Runner extension,simply:
-  - press ctrl + Alt + N
-  - or click the Run button at the top
+  Open Terminal in VS Code (Ctrl + ~)
+
+Compile the project using:
+
+gcc main.c -o main.exe
+
+And run the program using:
+./main.exe
  
-    #### 2 .Compiling manually (optional,for CLI users)
-    If you prefer running the project manually,follow these steps:
+    
