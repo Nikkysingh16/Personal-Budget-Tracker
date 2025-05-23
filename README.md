@@ -60,7 +60,7 @@ Uses struct budget to organize financial records, including:
 
 - Compile the project using:
 
-  gcc main.c -o main.exe
+  gcc main.c -o main.exe 
 
 - And run the program using:
 ./main.exe
