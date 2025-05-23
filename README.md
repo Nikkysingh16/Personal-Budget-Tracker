@@ -56,7 +56,7 @@ Uses struct budget to organize financial records, including:
   ## Instruction to Run the project
 
   #### 1 . Running the project in VS Code
- - Open Terminal in VS Code (Ctrl + ~)
+ - Open Terminal in VS Code (Ctrl + ~ )
 
 - Compile the project using:
 
